@@ -1,1 +1,1 @@
-# flutter_test
+This is a flutter test project. Soon to be a full stack app using Flutter.d
